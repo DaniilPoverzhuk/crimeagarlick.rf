@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,EAAE,SAAS,EAAE,KAAK;EACtB,AACE,qBADmB,CACnB,MAAM,CAAC;IACL,SAAS,EAAE,IAAI;GAChB;;;AAIL,MAAM,EAAE,SAAS,EAAE,KAAK;EACtB,AACE,qBADmB,CACnB,MAAM,CAAC;IACL,SAAS,EAAE,IAAI;GAChB;;;AAIL,MAAM,EAAE,SAAS,EAAE,KAAK;EACtB,AACE,qBADmB,CACnB,MAAM,CAAC;IACL,SAAS,EAAE,GAAG;GACf",
+    "sources": [
+        "../scss/adaptive/goods.scss"
+    ],
+    "names": [],
+    "file": "goods.css"
+}

@@ -1,0 +1,18 @@
+@media (max-width: 345px) {
+  .goods__box-itemBgBuy button {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 300px) {
+  .goods__box-itemBgBuy button {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 290px) {
+  .goods__box-itemBgBuy button {
+    font-size: 8px;
+  }
+}
+/*# sourceMappingURL=goods.css.map */

@@ -1,0 +1,30 @@
+@media (max-width: 1303px) {
+  .about__block {
+    text-align: center;
+  }
+  .about__block-img {
+    margin-top: 60px;
+  }
+}
+
+@media (max-width: 670px) {
+  .about__block-text {
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 582px) {
+  .about__block {
+    margin: 85px 20px 0;
+  }
+  .about__block-text {
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 380px) {
+  .about__block-text {
+    font-size: 15px;
+  }
+}
+/*# sourceMappingURL=about.css.map */

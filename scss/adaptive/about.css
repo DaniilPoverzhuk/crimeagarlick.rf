@@ -1,0 +1,33 @@
+@media (max-width: 670px) {
+  .about__block-text {
+    font-size: 19px;
+  }
+}
+@media (max-width: 582px) {
+  .about__block {
+    margin: 85px 20px;
+  }
+  .about__block-text {
+    font-size: 19px;
+  }
+}
+@media (max-width: 475px) {
+  .about__block-img {
+    height: 460px;
+  }
+}
+@media (max-width: 425px) {
+  .about__block-img {
+    height: 360px;
+  }
+}
+@media (max-width: 360px) {
+  .about__person {
+    margin: 0 20px;
+  }
+}
+@media (max-width: 380px) {
+  .about__block-text {
+    font-size: 15px;
+  }
+}/*# sourceMappingURL=about.css.map */
