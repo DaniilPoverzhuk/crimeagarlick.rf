@@ -772,6 +772,7 @@ button {
     transform: translate(-50%, -50%);
     font-size: 25px;
     display: none;
+    white-space: nowrap;
 
     &.active {
       display: block;
